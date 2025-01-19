@@ -82,3 +82,8 @@ The transformed data is converted back to a pandas DataFrame for readability, wi
 7. Combine with Target Variable
 
 Finally, the preprocessed features (X) are combined with the original target variable (y), resulting in a complete and ready-to-use dataset for machine learning tasks.
+
+**output of the task**
+![Image](https://github.com/user-attachments/assets/032d3bd4-a692-430b-b977-f987e9bf40b8)
+
+![Image](https://github.com/user-attachments/assets/f242465c-af25-470b-9f20-a2b32a72630e)
